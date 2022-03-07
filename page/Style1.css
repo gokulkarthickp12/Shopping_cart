@@ -1,0 +1,22 @@
+.marquee{
+    background-color:gold;
+    color:black;
+    padding:30px;
+   margin-top: 0px;
+   font-size: larger;
+   font-weight: bolder;
+}
+img{
+   padding: 20px;
+   position: absolute;
+   float:center;
+   margin-top: -15px;
+   margin-left: 250px;
+}
+body{
+    background-color: chocolate;
+}
+.logo1{
+    position:absolute;
+    margin-left: 100px;
+}

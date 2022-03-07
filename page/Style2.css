@@ -1,0 +1,26 @@
+body{
+  background-color: blanchedalmond;
+}
+.logo-1{
+    position: absolute;
+    float:left;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.logo-2{
+    position: absolute;
+    float:left;
+    margin-top: 100px;
+    margin-left: 600px;
+}
+.logo-3{
+    position: absolute;
+    float:left;
+    margin-top: 100px;
+    margin-left:1000px;
+}.logo-4{
+    position: absolute;
+    float:left;
+    margin-top: 300px;
+    margin-left:600px;
+}
