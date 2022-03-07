@@ -1,1 +1,1 @@
-# Shopping_cart
+It is a Sample Shopping cart static website
